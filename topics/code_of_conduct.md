@@ -26,6 +26,13 @@ An effective code of conduct will cover:
 - (optional) additional reporting details or guidelines
 - (optional) additional relevant resources for assisting participants such as urgent care medical clinics, crisis lines, resource centers
 
+## Example codes of conduct to use
+
+- [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+- [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+- [Contributor Covenant](http://contributor-covenant.org/)
+- [Lambda Ladies Code of Conduct](http://www.lambdaladies.com/code-of-conduct/)
+
 ## How do you share it your community?
 
 - post in all public areas or materials, such as conference venues, websites, code repositories
