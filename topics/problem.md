@@ -15,7 +15,6 @@ Harassment, abuse, and other kinds of marginalizing behavior are major reasons t
 
 ## More reading
 
-- [Why women are leaving the tech industry in droves](http://www.latimes.com/opinion/op-ed/la-oe-gardner-women-in-tech-20141207-story.html)
 - [Why women leave tech: what the research says](https://docs.google.com/document/d/1soIYek-YEIvqtu9brv3ecdPbuVzQKp_GhAozC06UrLo/edit?pli=1#)
 - [Life and Times of a Tech Feminist Killjoy: You Can’t Go Back & There’s No End in Sight](http://juliepagano.com/blog/2014/10/10/life-and-times-of-a-tech-feminist-killjoy-you-cant-go-back-theres-no-end-in-sight/)
 - [The Other Side of Diversity](https://medium.com/this-is-hard/the-other-side-of-diversity-1bb3de2f053e)
