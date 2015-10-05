@@ -9,7 +9,7 @@ title: Understanding Safety
 
 >While [naming and shaming] may sound like a great idea in the long run, doing this can expose yourself to even more harassment, especially if the person is a well-respected member of the community. Their voice - and "army" - can quickly overpower yours and you can be punished for daring to shed light on this person's poor behavior.
 
-[](http://www.ashedryden.com/the-risk-in-speaking-up)
+[The Risk in Speaking Up](http://www.ashedryden.com/the-risk-in-speaking-up)
 
 ## How to support someone experiencing harassment
 
