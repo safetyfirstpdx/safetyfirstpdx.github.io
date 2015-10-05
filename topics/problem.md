@@ -11,6 +11,10 @@ Harassment, abuse, and other kinds of marginalizing behavior are major reasons t
 
 [Why women are leaving the tech industry in droves](http://www.latimes.com/opinion/op-ed/la-oe-gardner-women-in-tech-20141207-story.html)
 
+> I finally realized that I could no longer contribute to a community where I was technically respected, but I could not ask for personal respect. I could not work with people who helpfully encouraged newcomers to send patches, and then argued that maintainers should be allowed to spew whatever vile words they needed to in order to maintain radical emotional honesty. I did not want to work professionally with people who were allowed to get away with subtle sexist or homophobic jokes. I feel powerless in a community that had a “Code of Conflict” without a specific list of behaviors to avoid and a community with no teeth to enforce it.
+
+[Closing a Door](http://sarah.thesharps.us/2015/10/05/closing-a-door/)
+
 ## What do marginalized groups in tech experience?
 
 ## More reading
