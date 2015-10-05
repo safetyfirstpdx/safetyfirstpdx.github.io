@@ -39,3 +39,4 @@ An effective code of conduct will cover:
 - [You literally cannot pay me to speak without a Code of Conduct](http://rachelnabors.com/2015/09/01/code-of-conduct/)
 - [Enforcing Your Code of Conduct: effective incident response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 - [A Code of Conduct is Not Enough](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough)
+- [Codes of conduct and the trade-offs of copyleft](http://crookedtimber.org/2015/04/10/codes-of-conduct-and-the-trade-offs-of-copyleft/)
