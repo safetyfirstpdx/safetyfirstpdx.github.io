@@ -11,5 +11,5 @@ title: Reporting Guidelines
 
 ## Examples of reporting guidelines
 
-[Django Code of Conduct - Reporting Guide](https://www.djangoproject.com/conduct/reporting/)
-[Reporting Guidelines for Stumptown Syndicate](http://opensourcebridge.org/about/reporting-guidelines/)
+- [Django Code of Conduct - Reporting Guide](https://www.djangoproject.com/conduct/reporting/)
+- [Reporting Guidelines for Stumptown Syndicate](http://opensourcebridge.org/about/reporting-guidelines/)
