@@ -25,6 +25,9 @@ Topics: protecting personal data, 'disaster response' for privacy breaches, acti
 
 Provides info sheets on what to do if you're doxed, talking to your employer, and password/login security
 
+
+## Topics we want to cover
+
 - Organizations in Portland
 - Orgs elsewhere and online
 - Recommended reading, other guides
