@@ -25,6 +25,9 @@ Topics: protecting personal data, 'disaster response' for privacy breaches, acti
 
 Provides info sheets on what to do if you're doxed, talking to your employer, and password/login security
 
+### [Heartmob](https://iheartmob.org/)
+
+A support system for people experiencing online harassment, created by [Hollaback!](http://www.ihollaback.org/). Tools allow users to document the harassment they're experiencing, create help requests for others to help document and report the harassment, and to offer and receive emotional support.
 
 ## Topics we want to cover
 
