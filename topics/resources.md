@@ -3,15 +3,17 @@ layout: default
 title: Resource Guide
 ---
 
+## Online Safety Resources
+
+### [Heartmob](https://iheartmob.org/)
+
+A support system for people experiencing online harassment, created by [Hollaback!](http://www.ihollaback.org/). Tools allow users to document the harassment they're experiencing, create help requests for others to help document and report the harassment, and to offer and receive emotional support.
+
 ## Safety Guides
 
-### [Speak Up & Stay Safe(r): A Guide to Protecting Yourself From Online Harassment](https://onlinesafety.feministfrequency.com/en/)
+### [Crash Override Network](http://crashoverridenetwork.tumblr.com/)
 
-Covers: doxing, passwords and logins, social media, gaming security, physical mail
-
-### [The Smart Girl's Guide to Privacy](https://www.nostarch.com/smartgirlsguide)
-
-Topics include finding and deleting personal information from websites, using software privacy controls, identity theft, knowing what's protected by law
+Provides info sheets on what to do if you're doxed, talking to your employer, and password/login security
 
 ### [A DIY Guide to Feminist Cybersecurity](https://tech.safehubcollective.org/cybersecurity/)
 
@@ -21,13 +23,13 @@ Covering anonymity and privacy when browsing the web, protecting accounts from h
 
 Topics: protecting personal data, 'disaster response' for privacy breaches, activism
 
-### [Crash Override Network](http://crashoverridenetwork.tumblr.com/)
+### [The Smart Girl's Guide to Privacy](https://www.nostarch.com/smartgirlsguide)
 
-Provides info sheets on what to do if you're doxed, talking to your employer, and password/login security
+Topics include finding and deleting personal information from websites, using software privacy controls, identity theft, knowing what's protected by law
 
-### [Heartmob](https://iheartmob.org/)
+### [Speak Up & Stay Safe(r): A Guide to Protecting Yourself From Online Harassment](https://onlinesafety.feministfrequency.com/en/)
 
-A support system for people experiencing online harassment, created by [Hollaback!](http://www.ihollaback.org/). Tools allow users to document the harassment they're experiencing, create help requests for others to help document and report the harassment, and to offer and receive emotional support.
+Covers: doxing, passwords and logins, social media, gaming security, physical mail
 
 ## Topics we want to cover
 
