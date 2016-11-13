@@ -31,6 +31,13 @@ Topics include finding and deleting personal information from websites, using so
 
 Covers: doxing, passwords and logins, social media, gaming security, physical mail
 
+## Skills for Bystanders and Allies
+
+### [Speak Up: Responding to Everyday Bigotry](https://www.splcenter.org/20150126/speak-responding-everyday-bigotry)
+
+A guide from the Southern Poverty Law Center on how to have conversations about bigotry and racism when situations happen in your community. Covers a couple dozen scenarios.
+
+
 ## Topics we want to cover
 
 - Organizations in Portland
