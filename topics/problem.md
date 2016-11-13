@@ -17,6 +17,12 @@ Harassment, abuse, and other kinds of marginalizing behavior are major reasons t
 
 ## What do marginalized groups in tech experience?
 
+[Elephant in the Valley](http://www.elephantinthevalley.com) is a report on a survey focused on women working in Silicon Valley. Their findings include things like "60% of women report receiving unwanted sexual advances."
+
+> Nearly half of black women (48%) and Latinas (47%) report having been mistaken for administrative or custodial staff, an experience far less common for white (32%) and Asian-American (23%) women scientists
+
+[The 5 Biases Pushing Women Out of STEM](https://hbr.org/2015/03/the-5-biases-pushing-women-out-of-stem)
+
 ## More reading
 
 - [Why women leave tech: what the research says](https://docs.google.com/document/d/1soIYek-YEIvqtu9brv3ecdPbuVzQKp_GhAozC06UrLo/edit?pli=1#)
