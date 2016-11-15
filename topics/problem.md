@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: topic
 title: Understanding the Problem
 ---
 

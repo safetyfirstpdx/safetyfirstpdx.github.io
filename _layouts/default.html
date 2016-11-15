@@ -1,26 +1,23 @@
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<title>{{ page.title }} / Safety First PDX</title>
+  <head>
+    <title>
+      {% if page.title %}
+        {{ page.title }} / 
+      {% endif %}
+      Safety First PDX
+    </title>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="author" content="Safety First PDX" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="Safety First PDX" />
+  </head>
 
-</head>
-
-<body>
+  <body>
     <div class="content">
-        <header>
-            <h1>{{ page.title }} / <a href="http://safetyfirstpdx.org">Safety First PDX</a></h1>
-        </header>
-
-        <section class="main-content">
-            {{content}}
-        </section>
-
-        <footer>
-            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://safetyfirstpdx.org" property="cc:attributionName" rel="cc:attributionURL">Safety First PDX</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-        </footer>
+      {{ content }}
     </div>
-</body>
+    <footer>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://safetyfirstpdx.org" property="cc:attributionName" rel="cc:attributionURL">Safety First PDX</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </footer>
+  </body>
 </html>
