@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: topic
 title: Training Program
 ---
 
