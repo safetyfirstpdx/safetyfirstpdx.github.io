@@ -16,5 +16,11 @@ title: Society
   
   <li>Black lives matter</li>
 
+  <li>oppression of Native Americans</li>
+
+  <li>immigration and refugee issues</li>
+
+  <li>other -isms</li>
+
 
 </ul>
