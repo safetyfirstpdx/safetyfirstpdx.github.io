@@ -1,0 +1,9 @@
+// Styles for main page content.
+
+.content {
+  font-size: $font-size-reading;
+  line-height: $line-height-reading;
+  margin: 0;
+  min-height: 50vh;
+  padding: 20px $spacing-page;
+}

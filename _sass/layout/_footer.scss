@@ -1,0 +1,87 @@
+// Styles for the page footer.
+
+footer {
+  background: $background-color-footer;
+  color: $text-color-inverted;
+
+  a {
+    color: $link-color-inverted;
+
+    &:hover {
+      color: $link-color-inverted-hover;
+    }
+  }
+
+  .primary {
+    padding: 20px $spacing-page;
+  }
+
+  .secondary {
+    background: $background-color-footer-secondary;
+    padding: $spacing-page;
+  }
+}
+
+.bottom-nav {
+  @include clearfix;
+
+  font-weight: 300;
+
+  &,
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  > li {
+    float: left;
+    list-style: none;
+    padding: 0;
+    margin: 0 30px 0 0;
+    min-width: 200px;
+
+    @media screen and (max-width: 600px) {
+      float: none;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    > a {
+      border-bottom: solid 1px $text-color-inverted;
+      display: block;
+      font-family: $font-family-secondary;
+      font-weight: 400;
+      margin: 0 0 10px 0;
+      padding: 0 0 5px 0;
+      text-transform: uppercase;
+
+      &:hover {
+        border-bottom: solid 1px $link-color-inverted-hover;
+      }
+    }
+  }
+
+  .bottom-nav-secondary {
+    > li {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+    }
+  }
+}
+
+.license {
+  $license-img-height: 31px;
+
+  font-weight: 300;
+  line-height: $license-img-height;
+
+  img {
+    float: left;
+    margin-right: 10px;
+  }
+}

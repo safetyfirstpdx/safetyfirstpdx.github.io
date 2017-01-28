@@ -1,0 +1,22 @@
+// This file contains variables and imports related to typography (how text
+// should be displayed on the page).
+
+// Import the google fonts we need for the page.
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,700|Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+
+// Primary to be used on the page.
+$font-family: 'Lato', Arial, sans-serif;
+// Secondary font to be used for text in titles, navs, and other upcased content.
+$font-family-secondary: 'Oswald', Arial, sans-serif;
+
+// Primary font size used for the page.
+$font-size: 16px;
+// Font size used for large sections of text that we want to be easy to read.
+$font-size-reading: 18px;
+// Font size for big titles.
+$font-size-title: 30px;
+
+// Primary line height used for the page.
+$line-height: 1.2em;
+// Line height used for large sections of text we want to be easy to read.
+$line-height-reading: 1.4em;

@@ -1,0 +1,25 @@
+// Color variables for the project. Put new colors here, so they are easy to
+// play with in one place.
+
+// Primary text color used on the page (assumes a light background).
+$text-color: #000;
+// Text color to be used on parts of the page with a dark background.
+$text-color-inverted: #fff;
+
+// Primary background color that is a neutral color, so it is suitable for
+// reading large chunks of text.
+$background-color-neutral: #fff;
+// Background color for the page title displayed below the header.
+$background-color-title: #9FC4FF;
+// Primary background color for the footer.
+$background-color-footer: #25438C;
+// Background color for the secondary piece of the footer.
+$background-color-footer-secondary: #1B3363;
+
+// Color used for most links on the page (there are a few exceptions, like the
+// nav links in the header).
+$link-color: #3F5898;
+// Color used when hovering over links on the page.
+$link-color-hover: #D17425;
+$link-color-inverted: #fff;
+$link-color-inverted-hover: #9FC4FF;
