@@ -3,21 +3,41 @@
   <head>
     <title>
       {% if page.title %}
-        {{ page.title }} / 
+        {{ page.title }} /
       {% endif %}
       Safety First PDX
     </title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="author" content="Safety First PDX" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ site.github.url }}/css/index.css" />
+
+    <!-- favicons -->
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.github.url }}/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="{{ site.github.url }}/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ site.github.url }}/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="{{ site.github.url }}/manifest.json">
+    <link rel="mask-icon" href="{{ site.github.url }}/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <script src="https://use.fontawesome.com/07e901def8.js"></script>
   </head>
 
   <body>
+    {% include header.html %}
+    <div class="page-title">
+      <h2>
+        {% if page.title %}
+          {{ page.title | upcase }}
+        {% elsif page.tagline %}
+          {{ page.tagline }}
+        {% endif %}
+      </h2>
+    </div>
     <div class="content">
       {{ content }}
     </div>
-    <footer>
-      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://safetyfirstpdx.org" property="cc:attributionName" rel="cc:attributionURL">Safety First PDX</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-    </footer>
+    {% include footer.html %}
   </body>
 </html>

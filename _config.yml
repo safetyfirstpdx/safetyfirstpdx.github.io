@@ -1,0 +1,31 @@
+# Used to populate the navigation.
+# The top nav only uses the top level of nav items.
+# The bottom nav also uses the secondary_nav items.
+#
+# Current assumptions:
+# Top level nav items are all internal links at the top level.
+# Secondary nav items assume they are nested under the folder specified by their
+# parent nav item.
+# Secondary nav items can be external links. You must set the "external: true"
+# value on them.
+nav_items:
+  - url: 'about'
+    label: 'About'
+    secondary_nav:
+      - url: 'about/working_groups'
+        label: 'Working Groups'
+  - url: 'resources'
+    label: 'Resources'
+    secondary_nav:
+      - url: 'resources/code_of_conduct'
+        label: 'Code of Conduct'
+      - url: 'resources/reporting'
+        label: 'Reporting Guidelines'
+      - url: 'resources/resources'
+        label: 'Resource Guide'
+  - url: 'get_involved'
+    label: 'Get Involved'
+    secondary_nav:
+      - url: 'https://github.com/safetyfirstpdx/safetyfirstpdx.github.io'
+        label: 'Github'
+        external: true

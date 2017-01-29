@@ -1,0 +1,22 @@
+// Styles for the page title that highlights what page the user is currently on.
+
+.page-title {
+  background-color: $background-color-title;
+  background-image: url('../images/texture.png');
+  letter-spacing: 1px;
+  padding: 30px $spacing-page 30px $logo-spacing;
+
+  @media screen and (max-width: 600px) {
+    padding: ($logo-spacing / 2 + 5px) 20px 20px 20px;
+  }
+
+
+  h2 {
+    font-family: $font-family-secondary;
+    font-size: $font-size-title;
+    font-weight: 800;
+    line-height: $line-height;
+    margin: 0;
+    padding: 0;
+  }
+}

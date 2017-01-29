@@ -1,0 +1,20 @@
+// Base styles for general elements on the page.
+
+body {
+  background: $background-color-neutral;
+  color: $text-color;
+  font-family: $font-family;
+  line-height: $line-height;
+  font-size: $font-size;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+  transition: color 0.2s, border 0.2s;
+
+  &:hover {
+    color: $link-color-hover;
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,26 @@
+<footer>
+  <section class="primary">
+    <ul class="bottom-nav">
+    {% for nav in site.nav_items %}
+      <li>
+        {% include nav_link.html nav=nav %}
+        <ul class="bottom-nav-secondary">
+          {% for secondary_nav in nav.secondary_nav %}
+            <li>
+              {% include nav_link.html nav=secondary_nav %}
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+  <section class="secondary">
+    <div class="license">
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+      </a>
+      This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://safetyfirstpdx.org" property="cc:attributionName" rel="cc:attributionURL">Safety First PDX</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </div>
+  </section>
+</footer>

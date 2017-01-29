@@ -1,0 +1,115 @@
+// Styles for the page header.
+
+$logo-size: 150px;
+$logo-spacing: $logo-size + 20px;
+.primary-header {
+  @include clearfix;
+
+  background: $background-color-neutral;
+  box-sizing: border-box;
+  min-height: $logo-size / 2 + 1px;
+  padding: 0;
+
+  h1 {
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+
+    .logo {
+      background: url('../images/logo.svg') no-repeat;
+      display: block;
+      height: $logo-size;
+      left: 0;
+      position: absolute;
+      top: 0;
+
+      // Hide the text for most cases, but keep it around for a screen reader to
+      // see.
+      text-indent: -9999px;
+
+      width: $logo-size;
+    }
+  }
+
+  nav {
+    font-family: $font-family-secondary;
+    font-weight: 400;
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      text-transform: uppercase;
+    }
+
+    a {
+      border-bottom: 2px solid $background-color-neutral;
+      color: $text-color;
+      text-decoration: none;
+
+      &.active {
+        border-bottom: 2px solid $text-color;
+      }
+
+      &:hover {
+        color: $link-color-hover;
+        border-bottom: 2px solid $link-color-hover;
+      }
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    nav {
+      float: right;
+      padding: 20px;
+      position: relative;
+      text-align: right;
+
+      .nav-trigger {
+        display: block;
+        border: 0;
+
+        &:hover {
+          border: 0;
+        }
+      }
+
+      ul {
+        background: $background-color-neutral;
+        box-sizing: border-box;
+        display: none;
+        padding: 0;
+      }
+
+      li {
+        margin: 20px 0;
+        white-space: nowrap;
+      }
+
+      &:hover {
+        ul {
+          display: block;
+        }
+      }
+    }
+  }
+
+  @media screen and (min-width: 600px) {
+    nav {
+      line-height: $logo-size / 2;
+      margin: 0 0 0 $logo-spacing;
+
+      .nav-trigger {
+        display: none;
+      }
+
+      li {
+        display: inline-block;
+        margin: 0 30px 0 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS.
+---
+
+// This is the file that is used in the build. The sass files that contain the
+// styles live in the _sass directory.
+@import "index";

@@ -1,0 +1,8 @@
+<!-- Includes site base if not external. -->
+{% assign current = page.url | downcase | split: '/' %}
+
+<a
+  href="{% unless secondary_nav.external %}{{ site.github.url }}/{% endunless %}{{include.nav.url}}"
+  {% if current[1] == include.nav.url %}class='active'{% endif %}>
+  {{include.nav.label}}
+</a>

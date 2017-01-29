@@ -1,0 +1,14 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<nav>
+  <a href="#" class="nav-trigger">
+    <i class="fa fa-bars fa-2x"></i>
+  </a>
+  <ul>
+    {% for nav in site.nav_items %}
+      <li>
+        {% include nav_link.html nav=nav %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
