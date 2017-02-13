@@ -37,9 +37,6 @@ Covers: doxing, passwords and logins, social media, gaming security, physical ma
 
 A guide from the Southern Poverty Law Center on how to have conversations about bigotry and racism when situations happen in your community. Covers a couple dozen scenarios.
 
+## Portland resources
 
-## Topics we want to cover
-
-- Organizations in Portland
-- Orgs elsewhere and online
-- Recommended reading, other guides
+[Portland Public Safety Resources](https://www.portlandoregon.gov/oni/article/320566) includes crisis lines, emergency services, neighborhood safety, and victim services
