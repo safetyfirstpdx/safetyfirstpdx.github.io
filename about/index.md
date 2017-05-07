@@ -23,5 +23,5 @@ Learn more:
 * [Connecting with issues of oppression in society](/resources/society.html)
 
 Find help:
-* [Resource Guide](/resources/resources.html)
-* [Our training program](/resources/training.html)
+* [Resource Guide](/resources/index.html)
+* [Our training program](/training/code_of_conduct)
