@@ -17,14 +17,36 @@ A code of conduct is a policy used by an organization such as a conference, work
 
 An effective code of conduct will cover:
 
-- a statement of intent
-- a list of specific behaviors considered inappropriate
-- an open-ended list of actions the organization may take in response to those behaviors
-- additional expectations about participation in the organization, event, or space
-- the scope of who the policy affects
-- who to contact to report a violation, and how to contact them
-- (optional) additional reporting details or guidelines
-- (optional) additional relevant resources for assisting participants such as urgent care medical clinics, crisis lines, resource centers
+### A statement of intent
+
+What values or goals does your organization have? How do those values relate to the safety of attendees?
+
+### A list of specific behaviors considered inappropriate
+
+These need to cover common types of harassment and abuse. Specifics are important because they reduce the ambiguity of these requests: it's easier to understand and follow 'when someone says they don't want to talk to you, stop' versus 'don't be a jerk'.
+
+### An open-ended list of actions the organization may take in response to those behaviors
+
+Participants need to know the range of things that could happen: are you going to ask everyone to leave? Permanently? These details help everyone understand you take their safety seriously, and show people who might not be acting in good faith that there will be consequences.
+
+### Additional expectations about participation in the organization, event, or space
+
+Some communities have other social rules that aren't directly about harassment, like the Recurse Center's "No feigning suprise" and "No well-actuallys".
+
+### The scope of who the policy affects
+
+Most of our events and groups have some aspect of open participation, so we need to be clear about who's under these policies. Does it include sponsors? Vendors providing a service?
+
+### Who to contact to report a violation, and how to contact them
+
+Without this, you won't have a working policy.
+
+### Optional items
+
+- Additional reporting details or guidelines
+- Additional relevant resources for assisting participants such as urgent care medical clinics, crisis lines, resource centers
+
+If there's anything else you expect people to do, more details you can provide about your process, or outside resources they can access, include them as well.
 
 ## Example codes of conduct to use
 
