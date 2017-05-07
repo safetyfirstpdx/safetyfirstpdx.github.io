@@ -9,15 +9,19 @@ We intend to educate ourselves and members of our community on what problems exi
 
 Safety First PDX is a program of [Stumptown Syndicate](https://stumptownsydicate.org).
 
-Learn more:
+Get started:
 * [Understanding the problem](/resources/problem.html)
-* [What's a code of conduct?](/resources/code_of_conduct.html)
-* [What are reporting guidelines?](/resources/reporting.html)
+* [What's a code of conduct? Why do you need one?](/resources/code_of_conduct.html)
+* [Reporting guidelines for incidents](/resources/reporting.html)
+* [Building your incident response plan](/resources/incident_response.html)
+
+Learn more:
 * [Conflict resolution](/resources/conflict_resolution.html)
 * [Community accountability](/resources/accountability.html)
-* [Incident response](/resources/incident_response.html)
 * [Understanding Safety](/resources/safety.html)
 * [Ways to create safer spaces](/resources/safer_spaces.html)
 * [Connecting with issues of oppression in society](/resources/society.html)
+
+Find help:
 * [Resource Guide](/resources/resources.html)
 * [Our training program](/resources/training.html)
