@@ -14,6 +14,8 @@ nav_items:
     secondary_nav:
       - url: 'about/working_groups'
         label: 'Working Groups'
+  - url: 'training/code_of_conduct'
+    label: 'Training Program'
   - url: 'resources'
     label: 'Resources'
     secondary_nav:
