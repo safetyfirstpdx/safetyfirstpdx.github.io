@@ -9,4 +9,4 @@ We intend to educate ourselves and members of our community on what problems exi
 
 Get involved! Email sfp@stumptownsyndicate.org to find out how, or check out [the repository for this site on GitHub](https://github.com/safetyfirstpdx/safetyfirstpdx.github.io).
 
-{% include donation.html %}
+{% include donate.html %}
