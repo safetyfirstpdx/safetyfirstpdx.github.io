@@ -25,6 +25,11 @@ nav_items:
       label: 'In Person'
   - url: 'training/code_of_conduct'
     label: 'Training Program'
+    secondary_nav:
+    - url: 'training/code_of_conduct#workshops'
+      label: 'Workshops'
+    - url: 'training/code_of_conduct#training-materials'
+      label: 'Materials'
   - url: 'resources'
     label: 'Resources'
     secondary_nav:
