@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Upcoming Events
+title: Upcoming Events 2018
 ---
 
 # Online Office Hours
@@ -22,7 +22,9 @@ They always happen at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safety
 * May 22, Noon PST
 * June 26, Noon PST
 
-# Face to Face Trainings in Portland, OR
+# In Person Training
+
+In Portland, OR, USA
 
 * Quarter 1 Training: March / April - TBD
 * Quarter 2 Training: June 26 at [Open Source Bridge](http://opensourcebridge.org/)
