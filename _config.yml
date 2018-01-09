@@ -25,7 +25,7 @@ nav_items:
         label: 'Code of Conduct'
       - url: 'resources/reporting'
         label: 'Reporting Guidelines'
-      - url: 'resources/resources'
+      - url: 'resources/index'
         label: 'Resource Guide'
   - url: 'get_involved'
     label: 'Get Involved'

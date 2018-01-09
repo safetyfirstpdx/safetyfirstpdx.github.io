@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Resources Guide
 ---
 
 

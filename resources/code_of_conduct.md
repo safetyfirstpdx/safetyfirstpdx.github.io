@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Code of Conduct
 ---
 
 # Example for a Code of Conduct
