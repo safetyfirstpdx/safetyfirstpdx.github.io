@@ -13,9 +13,6 @@ kramdown:
 nav_items:
   - url: 'about'
     label: 'About'
-    secondary_nav:
-      - url: 'about/working_groups'
-        label: 'Working Groups'
   - url: 'upcoming_events'
     label: 'Events'
     secondary_nav:
