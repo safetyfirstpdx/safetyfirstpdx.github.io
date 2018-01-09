@@ -28,3 +28,5 @@ In Portland, OR, USA
 
 * Quarter 1 Training: March / April - TBD
 * Quarter 2 Training: June 26 at [Open Source Bridge](http://opensourcebridge.org/)
+
+Safety First PDX is a program of Stumptown Syndicate. Our events and communications are subject to the [Stumptown Syndicate Code of Conduct](http://stumptownsyndicate.org/code-of-conduct/) and incidents may be reported by following the [Stumptown Syndicate Reporting Guidelines](http://stumptownsyndicate.org/code-of-conduct/reporting-guidelines/).
