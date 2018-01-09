@@ -29,7 +29,3 @@ nav_items:
         label: 'Resource Guide'
   - url: 'get_involved'
     label: 'Get Involved'
-    secondary_nav:
-      - url: 'https://github.com/safetyfirstpdx/safetyfirstpdx.github.io'
-        label: 'Github'
-        external: true
