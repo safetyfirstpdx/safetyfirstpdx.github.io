@@ -8,3 +8,5 @@ We believe that harassment and abuse are significant factors in preventing our e
 We intend to educate ourselves and members of our community on what problems exist, and the most effective steps we can take to address them.
 
 Get involved! Email sfp@stumptownsyndicate.org to find out how, or check out [the repository for this site on GitHub](https://github.com/safetyfirstpdx/safetyfirstpdx.github.io).
+
+{% include donation.html %}
