@@ -5,11 +5,7 @@ title: Training Workshops
 
 # Workshops
 
-We have a three-hour workshop about code of conducts for people in community leadership roles, including user group leaders, conference organizers, and open source project maintainers.
-
-Subscribe to know about the next workshop.
-
-{% include newsletter.html %}
+We have a three-hour workshop about codes of conduct for people in community leadership roles, including user group leaders, conference organizers, and open source project maintainers.
 
 # Training materials
 
