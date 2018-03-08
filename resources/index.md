@@ -14,9 +14,6 @@ title: Resource Guide
 
 * [Community accountability](accountability.html)
 * [Conflict resolution](conflict_resolution.html)
-<!-- * [Understanding safety](safety.html)
-* [Ways to create safer spaces](safer_spaces.html)
-* [Connecting with issues of oppression in society](society.html) -->
 
 ## Find Help Locally — Portland, Oregon
 
