@@ -11,7 +11,7 @@ Conflict is a normal part of community interactions. Conflicts happen when we do
 
 Conflict resolution makes sense when people in a group agree to the same overall purposes, but disagree on how to do it. This practice isn't useful in situations where people disagree over the basic rights or autonomy of each other, or about the right for your community to exist. For example, conflict resolution can help us when we disagree strongly about how to run a meeting or who to have speak, but it won't fix a situation where someone is causing deliberate harm to community members.
 
-## How does it work?
+It may be useful to have an experienced mediator work with your group on this.
 
 ## Resources
 
