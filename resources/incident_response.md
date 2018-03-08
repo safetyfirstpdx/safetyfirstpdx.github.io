@@ -14,7 +14,7 @@ A community may have:
 - Staff members and organizers
 - Supporting organizations or boards
 
-Your primary responders should be people who can take responsibility for your community's response to an incident. You also need to prevent conflicts of interest: no couples or family members working together. Don't take on this responsibility alone: two or more people are needed to hold each other accountable.
+Your **primary responders** should be people who can take responsibility for your community's response to an incident. You also need to prevent conflicts of interest: no couples or family members working together. Don't take on this responsibility alone: two or more people are needed to hold each other accountable.
 
 Describe what each set of participants and organizers is expected to do.
 
