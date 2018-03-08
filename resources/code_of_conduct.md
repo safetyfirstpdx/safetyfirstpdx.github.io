@@ -21,30 +21,34 @@ An effective code of conduct will cover:
 
 What values or goals does your organization have? How do those values relate to the safety of attendees?
 
-### 2. A list of specific behaviors considered inappropriate
+### 2. Who are you working to include?
+
+This is often given as a list of protected groups or categories: gender, race, religion, disability, and so on. Including this is a heads-up to people who have been excluded elsewhere, and your awareness of the details is one of the ways you demonstrate accountability. Skip flexible attributes like political beliefs or professionalism. Those are better handled as appropriate and inappropriate behaviors.
+
+### 3. A list of specific behaviors considered inappropriate
 
 These need to cover common types of harassment and abuse. Specifics are important because they reduce the ambiguity of these requests: it's easier to understand and follow 'when someone says they don't want to talk to you, stop' versus 'don't be a jerk'.
 
-### 3. An open-ended list of actions the organization may take in response to those behaviors
+### 4. An open-ended list of actions the organization may take in response to those behaviors
 
-Participants need to know the range of things that could happen: are you going to ask everyone to leave? Permanently? These details help everyone understand you take their safety seriously, and show people who might not be acting in good faith that there will be consequences.
+Participants need to know the range of things that could happen: Are you going to ask everyone to leave? Permanently? Open a mediation process? These details help everyone understand you take their safety seriously, and show people who might not be acting in good faith that there will be consequences.
 
-### 4. Additional expectations about participation in the organization, event, or space
+### 5. Additional expectations about participation in the organization, event, or space
 
 Some communities have other social rules that aren't directly about harassment, like the [Recurse Center's](https://www.recurse.com/manual) "No feigning suprise" and "No well-actuallys".
 
-### 5. The scope of who the policy affects
+### 6. The scope of who the policy affects
 
 Most of our events and groups have some aspect of open participation, so we need to be clear about who's under these policies. Does it include sponsors? Vendors providing a service?
 
-### 6. Who to contact to report a violation, and how to contact them
+### 7. Who to contact to report a violation, and how to contact them
 
-Without this, you won't have a working policy.
+Without this, you won't be able to do anything.
 
 ### Optional items
 
 - Additional reporting details or guidelines: do you have a formal reporting policy or a form to fill out? Link to it.
-- Additional relevant resources for assisting participants such as urgent care medical clinics, crisis lines, resource centers
+- Additional relevant resources for assisting participants, such as urgent care medical clinics, crisis lines, resource centers
 
 If there's anything else you expect people to do, more details you can provide about your process, or outside resources they can access, include them as well.
 

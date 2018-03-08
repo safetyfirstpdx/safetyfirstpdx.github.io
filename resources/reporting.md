@@ -23,19 +23,19 @@ Download [our example form](/training/code_of_conduct/TemplateReportingForm.pdf)
 - Is the situation ongoing?
 - Additional information and notes that may help the responders
 
-## Recording reports and maintaining privacy
+## Taking reports and being aware of privacy
 
 It's important to maintain the privacy of the reporter and all others involved during this process, so move the reporting to a private communication method or space as quickly as possible. Decide whether you'll take reports via email, phone calls, other message systems, or in person. Agree with your fellow reporters and response team on what kinds of notes you'll keep and how they'll be stored. You may need to consider trade-offs between privacy, security, and accountability, as well as any legal implications for the information you gather.
 
-Factors that may affect your handling of these report records:
+Factors that may affect your handling of these records:
 
-- Is there a possibility of the information being subpoenaed? Will you need it for your own legal records?
+- Is there a possibility of the information being subpoenaed? Will you need it for your own legal use?
 - Do you have adequate physical security for paper copies and digital security for the rest?
 - Have you agreed on a retention policy? Will you need to refer back to notes at a future event?
 
 ## Follow up and response
 
-Make sure to let people know how soon they'll have a response from you, and what the time frame is for your actions. Posting an outline of your reporting process with your code of conduct may be helpful.
+Make sure to let people know how soon they'll have a response from you, and what the time frame is for your actions. Posting an outline of your reporting process with your code of conduct is helpful.
 
 ## Examples of reporting guidelines
 
