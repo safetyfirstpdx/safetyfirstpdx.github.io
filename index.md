@@ -11,8 +11,6 @@ Safety First PDX is a program of Stumptown Syndicate. Our events and communicati
 
 ## Next Event
 
-Our next office hour is happening on January 23, Noon PST at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safetyfirst).
-
-The topic: Working on completely open events (such as FOSSDEM).
+We have monthly office hours every 4th Thursday at noon PST. Join us at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safetyfirst) or on Twitter using #safetyfirstofficehours.
 
 {% include donate.html %}
