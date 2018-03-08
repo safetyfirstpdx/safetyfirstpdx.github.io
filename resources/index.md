@@ -1,28 +1,26 @@
 ---
 layout: default
-title: Resources Guide
+title: Resource Guide
 ---
-
 
 ## Getting Started
 
-* [Understanding the problem](/training/code_of_conduct/problem.html)
-* [What's a code of conduct? Why do you need one?](/training/code_of_conduct/code_of_conduct.html)
-* [Reporting guidelines for incidents](/training/code_of_conduct/reporting.html)
-* [Building your incident response plan](/training/code_of_conduct/incident_response.html)
+* [Understanding the problem](problem.html)
+* [What's a code of conduct? Why do you need one?](code_of_conduct.html)
+* [Reporting guidelines for incidents](reporting.html)
+* [Building your incident response plan](incident_response.html)
 
 ## Next Steps
 
-* [Conflict resolution](/training/code_of_conduct/conflict_resolution.html)
-* [Community accountability](/training/code_of_conduct/accountability.html)
-* [Understanding Safety](/training/code_of_conduct/safety.html)
-* [Ways to create safer spaces](/training/code_of_conduct/safer_spaces.html)
-* [Connecting with issues of oppression in society](/resources/society.html)
+* [Conflict resolution](conflict_resolution.html)
+* [Community accountability](accountability.html)
+* [Understanding Safety](safety.html)
+* [Ways to create safer spaces](safer_spaces.html)
+* [Connecting with issues of oppression in society](society.html)
 
-## Find Help Locally
+## Find Help Locally — Portland, Oregon
 
-* [Resource Guide](/resources/index.html)
-* [Our training program](/training/code_of_conduct)
+* [Our training program](/training)
 * [Portland Public Safety Resources](https://www.portlandoregon.gov/oni/article/320566) includes crisis lines, emergency services, neighborhood safety, and victim services
 
 ## Online Safety Resources
