@@ -7,13 +7,7 @@ title: Upcoming Events 2018
 
 This is a space to bring questions and comments as well as discussing approachs to code of conducts and how to resolve conflicts in our communities. We have topics for each office hours but you can bring any question you may have.
 
-They always happen at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safetyfirst)
-
-* January 23, Noon PST. <br>
-  *Topic: Working on completely open events (such as FOSSDEM)*
-
-* February 27, Noon PST. <br>
-  *Topic: Romantic behavior in professional environments*
+They always happen at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safetyfirst) and also on Twitter using the hashtag #safetyfirstofficehours.
 
 * March 27, Noon PST.<br>
   *Topic: Holding sponsors accountable to codes of conduct*
