@@ -20,7 +20,7 @@ Describe what each set of participants and organizers is expected to do. There w
 
 ## Making a plan
 
-Map out what kinds of situations you've had in the past or are concerned about encountering. Decide in advance how you'd like to handle it. Common issues can be fully scripted out, and more unusual or complex issues will benefit from a more formal decision-making process. See the template for an example of how that can be handled.
+Map out what kinds of situations you've had in the past or are concerned about encountering. Decide in advance how you'd like to handle it. Common issues can be fully scripted out, and more unusual or complex issues will benefit from a more formal decision-making process. See the [template](/training/code_of_conduct/TemplateIncidentResponseGuide.pdf) for an example of how that can be handled.
 
 ## Training
 
