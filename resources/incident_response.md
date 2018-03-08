@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Incident Reponse
+title: Incident Response
 ---
 
 Your incident response plan needs to be flexible enough for anything that could happen in your scope of activities, and specific enough that everyone involved knows what they need to do. You can [download our template](/training/code_of_conduct/TemplateIncidentResponseGuide.pdf) as a starting point.
