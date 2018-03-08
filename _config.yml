@@ -20,7 +20,7 @@ nav_items:
       label: 'Office Hours'
     - url: 'upcoming_events#in-person-training'
       label: 'In Person'
-  - url: 'training/code_of_conduct'
+  - url: 'training'
     label: 'Training Program'
     secondary_nav:
     - url: 'training/code_of_conduct#workshops'
