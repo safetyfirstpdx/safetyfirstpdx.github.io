@@ -41,6 +41,7 @@ Make sure to let people know how soon they'll have a response from you, and what
 
 - [Django Code of Conduct - Reporting Guide](https://www.djangoproject.com/conduct/reporting/)
 - [Reporting Guidelines for Stumptown Syndicate](http://opensourcebridge.org/about/reporting-guidelines/)
+- [JS Foundation Code of Conduct](https://js.foundation/community/code-of-conduct)
 
 ## Other resources
 
