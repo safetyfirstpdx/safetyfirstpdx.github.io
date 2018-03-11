@@ -14,9 +14,9 @@ A community may have:
 - Staff members and organizers
 - Supporting organizations or boards
 
-Your **primary responders** should be people who can take responsibility for your community's response to an incident. You also need to prevent conflicts of interest: no couples or family members working together. Don't take on this responsibility alone: two or more people are needed to hold each other accountable.
+Your **primary responders** should be people who can take responsibility for your community's response to an incident. You need to prevent conflicts of interest: no couples or family members working together. Don't take on this responsibility alone. Two or more people are needed to hold each other accountable, and an ideal group size is usually three to five responders. People will need to rotate in and out of the response group over time, and take turns being on call or in the lead position.
 
-Describe what each set of participants and organizers is expected to do. There will be a reporting chain — maybe just two steps from "participant" to "organizer/responder" — and you may also be accountable to a parent or partner organization.
+Describe what each set of participants and organizers is expected to do. There will be a [reporting](resources/reporting.html) chain — maybe just two steps from "participant" to "organizer/responder" — and you may also be accountable to a parent or partner organization.
 
 ## Making a plan
 
@@ -28,7 +28,7 @@ People forget things in the middle of a chaotic situation. In addition to a writ
 
 ## Communication
 
-At in-person events, the plan should be available at key areas like volunteer rooms and info desks. Also include a cover page with the contact info for all responders, and the physical address for when you need to call for emergency services. Online it should be easily accessible to all organizers and responders. Don't consider this a public document: you may need to include personal information for responders, or be planning for situations that would be worse if everyone had your notes on how you will respond.
+At in-person events, the plan should be available at key areas like volunteer rooms and info desks. Also include a cover page with the contact info for all responders, and the physical address of your event venue for when you need to call for emergency services. Online it should be easily accessible to all organizers and responders. Don't consider this a public document: you may need to include personal information for responders, or be planning for situations that would be worse if everyone had your notes on how you will respond.
 
 ## Other resources
 
