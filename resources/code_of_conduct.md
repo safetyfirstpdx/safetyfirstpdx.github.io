@@ -5,7 +5,7 @@ title: Code of Conduct
 
 ## What is a code of conduct?
 
-A code of conduct is a policy used by an organization such as a conference, workplace, open source project, or event venue. At a minimum it states what behaviors are not acceptable, how the organization will enforce the policy, who the policy applies to, and how to make a report of a code of conduct violation.
+A code of conduct is a policy used by an organization such as a conference, workplace, open source project, or event venue. At a minimum it states what behaviors are not acceptable, how the organization will enforce the policy, who the policy applies to, and how to report a code of conduct violation.
 
 ## Why do you need one?
 
@@ -35,6 +35,8 @@ Participants need to know the range of things that could happen: Are you going t
 
 ### 5. Additional expectations about participation in the organization, event, or space
 
+You have at least one expected behavior to emphasize: you want people to tell you when there's an incident.
+
 Some communities have other social rules that aren't directly about harassment, like the [Recurse Center's](https://www.recurse.com/manual) "No feigning suprise" and "No well-actuallys".
 
 ### 6. The scope of who the policy affects
@@ -43,7 +45,7 @@ Most of our events and groups have some aspect of open participation, so we need
 
 ### 7. Who to contact to report a violation, and how to contact them
 
-Without this, you won't be able to do anything.
+This needs to be specific and appropriate for all of the contexts where your policy is used. Giving the name of the lead responder is preferable to a general "Code of Conduct Committee" identification.
 
 ### Optional items
 
@@ -75,3 +77,9 @@ Make time at the start of your meetings and events to talk about the code of con
 - [Enforcing Your Code of Conduct: effective incident response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
 - [A Code of Conduct is Not Enough](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough)
 - [Comparing Codes of Conduct to Copyleft Licenses](http://www.harihareswara.net/sumana/2016/02/19/0)
+- [Project Include](http://projectinclude.org/writing_cocs#) guide to creating a code of conduct for tech companies
+
+## Next steps
+
+- [Get ready to take reports](/resources/reporting.html)
+- [Make an incident response plan](/resources/incident_response.html)
