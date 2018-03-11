@@ -30,6 +30,8 @@ People forget things in the middle of a chaotic situation. In addition to a writ
 
 At in-person events, the plan should be available at key areas like volunteer rooms and info desks. Also include a cover page with the contact info for all responders, and the physical address of your event venue for when you need to call for emergency services. Online it should be easily accessible to all organizers and responders. Don't consider this a public document: you may need to include personal information for responders, or be planning for situations that would be worse if everyone had your notes on how you will respond.
 
+Response teams should look for the greatest security possible when communicating with each other. Make use of a secure chat system like Signal, and refrain from putting sensitive information in your emails to each other.
+
 ## Other resources
 
 - [Enforcing Your Code of Conduct: effective incident response](http://www.slideshare.net/aeschright/enforcing-your-code-of-conduct-effective-incident-response)
