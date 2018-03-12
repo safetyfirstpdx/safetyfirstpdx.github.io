@@ -3,7 +3,7 @@ layout: topic
 title: Governance and leadership
 ---
 
-It may seem a little obvious, but it's difficult to have and use a code of conduct if you have no organization at all. Informal and ad hoc groups need to go through a different process than ones with a formal structure. If you have a formal hierarchy, that will help you answer these next questions. If not, the group will need to spend more effort to decide who's responsible, how and why.
+It may seem a little obvious, but it's difficult to have and use a [code of conduct](resources/code_of_conduct.html) if you have no organization at all. Informal and ad hoc groups need to go through a different process than ones with a formal structure. If you have a formal hierarchy, that will help you answer these next questions. If not, the group will need to spend more effort to decide who's responsible, how and why.
 
 When we create and enforce a code of conduct, we're not the police, a court system, trained detectives, or any higher legal authority. We're acting with the consent and participation of a community we belong to. Thoughtful consideration of this issue will help you maintain the code of conduct and get the most out of it.
 
