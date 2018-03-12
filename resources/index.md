@@ -14,7 +14,7 @@ title: Resource Guide
 
 * [Community accountability](accountability.html)
 * [Conflict resolution](conflict_resolution.html)
-* [Work within your governance structure](resources/governance.html)
+* [Governance and leadership](governance.html)
 
 ## Learn more
 
