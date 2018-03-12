@@ -27,6 +27,14 @@ That's the formal kind of authority. Informally, you can find out pretty fast wh
 
 When informal and "leaderless" groups need to make hard decisions about how to handle someone's behavior, the people who have the most community respect will need to work together with victims to decide on an appropriate outcome. Privacy is tough in this situation because the set of people who need to be involved may change to make a resolution possible. Warn the person who reported the situation and anyone else affected if this sort of change in scope seems likely. They should have a major say in how it's handled. Work to limit information sharing outside of the immediate response group.
 
+## How does this differ from your technical leadership?
+
+Technical communities are often led by people with technical expertise, and with significant experience as contributors. This may be because they were the founders. That means the leaders have a good understanding of the main work and activities of the community. However, this does not automatically translate to the experience and skills needed to manage the interactions between a diverse group of people. Code of conduct work can feel like unnecessary overhead that the leaders have to juggle when they'd rather be fixing bugs.
+
+In a small community, the short-term solution is for the leaders to start implementing policies and learning the necessary skills, while also mentoring participants who can eventually step up to join them in leading this aspect of the community. Larger communities may already have people who could step into the role, and in that case it makes sense to specialize.
+
+If you have a technical leadership committee, don't automatically make them the new code of conduct response team. Decide as a group [which of you are best equipped](resources/incident_response.html) to take on that work.
+
 ## Who can report an issue?
 
 We document the [scope of the code of conduct](resources/code_of_conduct.html) to define who the participants are. Our efforts need to fully reflect that, regardless of someone's social standing or level of organizational knowledge. Make sure [your reporting system](resources/reporting.html) is accessible to anyone who might need to use it and that you'll be able to respond to newcomers as well as more established members. If participation in your group is limited to a formal membership, decide what you'll do if someone outside the group reports a problem with one of your members.
