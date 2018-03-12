@@ -11,7 +11,9 @@ When we create and enforce a code of conduct, we're not the police, a court syst
 
 When you're interested in introducing a code of conduct to an organization, consider your standing. Someone in a formal leadership role may be able to declare that the group is going to do this, and everyone else will follow. A new organization can go right ahead. Some existing groups will have a set policy for taking on new recommendations that everyone goes through. In open source these can involve submitting a bug to a bug tracker. If there's a legal organization and a governing board, the board may need to take it up as a proposal.
 
-For other community members, we need to work on building awareness and consensus. Attempting to introduce new rules for a community where you don't have a visible leadership role may encourage a hostile backlash. Even with that authority, a rush to change things can make it harder. Find out who in your group is ready to take this step, and what concerns the others have. Common fears include uncertainty about the existence of harmful behavior in the community, and a belief that people will be penalized arbitrarily and without recourse.
+For other community members, we need to work on building awareness and consensus. Attempting to introduce new rules for a community where you don't have a visible leadership role may lead to a hostile backlash. Even with formal authority, a rush to change things can make it harder. Find out who in your group is ready to take this step, and what concerns the others have. Common fears include uncertainty about the existence of harmful behavior in the community, and a belief that people will be penalized arbitrarily and without recourse.
+
+When we lack the authority or support to make changes otherwise, lack of a detailed and enforced code of conduct is a valid reason to withdraw participation.
 
 ## Who has the authority to implement new policies?
 
