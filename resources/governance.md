@@ -17,7 +17,7 @@ For other community members, we need to work on building awareness and consensus
 
 This may a single leader or set of people in fixed roles, a governance committee, or a non-profit or corporate board. Communication is an important element, too: who is able to post announcements and new documentation? For less formal groups, the authority may come down to who has the ability to communicate information in a way other people will pay attention to. Or who can create a sphere of interaction where everyone consents to follow the policy, as in a sub-track or code sprint at a large umbrella event.
 
-## Who has the authority to enforce penalies for people's behavior?
+## Who has the authority to enforce penalties for people's behavior?
 
 In addition to the people who can implement a policy change, this could include other community members who lead meetings or working groups, and would need to be involved when someone is no longer allowed to participate. It may also include moderators who oversee online communication.
 
@@ -29,7 +29,7 @@ When informal and "leaderless" groups need to make hard decisions about how to h
 
 We document the [scope of the code of conduct](resources/code_of_conduct.html) to define who the participants are. Our efforts need to fully reflect that, regardless of someone's social standing or level of organizational knowledge. Make sure [your reporting system](resources/reporting.html) is accessible to anyone who might need to use it and that you'll be able to respond to newcomers as well as more established members. If participation in your group is limited to a formal membership, decide what you'll do if someone outside the group reports a problem with one of your members.
 
-## What happens when leaders are the ones causing harm
+## What happens when leaders are the ones causing harm?
 
 Unfortunately, both accidental and deliberate harm can be caused by our leaders, and even the people responsible for enforcing a code of conduct. This is why it's important that more than one person is part of the response team, and that all significant decisions come from the group and not an individual. It's crucial that we avoid conflicts of interest: if you're the one being reported, recuse yourself! The same goes if it's your partner or close family member.
 
