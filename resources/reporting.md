@@ -39,7 +39,15 @@ Factors that may affect your handling of these records:
 
 Make sure to let people know how soon they'll have a response from you, and what the time frame is for your actions. Posting an outline of your reporting process with your code of conduct is helpful. Learn how to [create a incident response plan](/resources/incident_response.html) to determine your next actions.
 
-## Examples of reporting guidelines
+## Example situations
+
+Group A leads a large open source project that also throws an annual conference. They have a contact email address that forwards a copy to everyone in their response team, and a phone number for the conference that allows voicemail and SMS. Forwarding of calls and messages from the phone number is rotated to whoever is currently on call — there's someone available both during the daytime conference schedule and for evening events. Their reporting policies are linked on the website for both the conference and the project as a whole.
+
+When they receive a report of an incident, all notes are placed in a Dropbox folder that individual responders are added and removed from as needed. Detailed reports are only kept until the situation is resolved, except in cases where there's a permanent restriction or an ongoing legal reason. The remaining notes are only short summaries to help the organizers from each conference year spot repeat problems.
+
+Group B is one person, the host of a monthly user group meeting, plus a second responder from another user group (they've agreed to team up so that each one has a backup). They've decided to each have their own reporting email address for their group so that it's straightforward for participants. The organizers did not set up a phone number or other contact system, because one of them is always present and easy to identify at the event and they anticipate receiving most information in person. For similar reasons, they're only keeping their notes on paper and shred them after they feel an incident has been handled appropriately.
+
+## More examples of reporting guidelines
 
 - [Django Code of Conduct - Reporting Guide](https://www.djangoproject.com/conduct/reporting/)
 - [Reporting Guidelines for Stumptown Syndicate](http://opensourcebridge.org/about/reporting-guidelines/)

@@ -22,7 +22,7 @@ In highly visible incidents, the responsible organizers are often asked for comp
 
 Centering the needs of the victim(s) is your best starting point for any response. It's especially important to keep in mind if there's possible legal action — you should not be pressuring anyone to report an incident to the police. You put their safety and comfort first. However — if what the victim wants can cause further harm to your community, like in the case of an abuser they don't want to kick out of an event, you have to consider the total impact.
 
-A better approach to radical transparency is to use a [consistent and documented process](resources/reporting.html). If you do need to make public announcements of the details, make sure you're doing it in the way that's most appropriate to the scope of the incident. You may need to consult a lawyer. Give information to the people who are affected and able to use it.
+A better approach to radical transparency is to use a [consistent and documented process](resources/reporting.html). If you do need to make public announcements of the details, make sure you're doing it in the way that's most [appropriate to the scope of the incident](resources/incident_response.html). You may need to consult a lawyer. Give information to the people who are affected and able to use it.
 
 After an event, or as part of regular community communication, you may want to share something about incidents that happened and your response. Try not to make it a leaderboard or stats sheet. Give a general outline and resist pressure to name people without their consent:
 
@@ -40,6 +40,8 @@ It's hard to know if someone who caused such significant harm can safely rejoin 
 
 ## More reading
 
-- [Creating an incident response plan](resources/incident_response.html)
+- [Creating an Incident Response Plan](resources/incident_response.html)
 - [Take Responsibility For Handling Abuse](http://thebias.com/2015/08/12/take-responsibility-for-handling-abuse/)
 - [Returning to the Scene, Or Coming Back After Harassment](http://freethoughtblogs.com/almostdiamonds/2014/07/05/returning-to-the-scene-or-coming-back-after-harassment/)
+- [Code of Conduct Warning Signs](http://sage.thesharps.us/2016/01/25/code-of-conducts-warning-signs/)
+- [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
