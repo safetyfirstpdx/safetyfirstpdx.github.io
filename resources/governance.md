@@ -13,7 +13,7 @@ When you're interested in introducing a code of conduct to an organization, cons
 
 For other community members, we need to work on building awareness and consensus. Attempting to introduce new rules for a community where you don't have a visible leadership role may lead to a hostile backlash. Even with formal authority, a rush to change things can make it harder. Find out who in your group is ready to take this step, and what concerns the others have. Common fears include uncertainty about the existence of harmful behavior in the community, and a belief that people will be penalized arbitrarily and without recourse.
 
-When we lack the authority or support to make changes otherwise, lack of a detailed and enforced code of conduct is a valid reason to withdraw participation.
+When we lack the authority or support to make changes otherwise, the absence of a detailed and enforced code of conduct is a valid reason to withdraw participation.
 
 ## Who has the authority to implement new policies?
 
@@ -25,7 +25,9 @@ In addition to the people who can implement a policy change, this could include 
 
 That's the formal kind of authority. Informally, you can find out pretty fast whether you have the necessary trust and respect to enforce a code of conduct when you make a decision and people do or don't go along with it. Disagreements on this topic can cause a group to split or fork.
 
-When informal and "leaderless" groups need to make hard decisions about how to handle someone's behavior, the people who have the most community respect will need to work together with victims to decide on an appropriate outcome. Privacy is tough in this situation because the set of people who need to be involved may change to make a resolution possible. Warn the person who reported the situation and anyone else affected if this sort of change in scope seems likely. They should have a major say in how it's handled. Work to limit information sharing outside of the immediate response group.
+When informal and "leaderless" groups need to make hard decisions about how to handle someone's behavior, the people who have the most community trust and respect will have to work together with victims to decide on an appropriate outcome. Maintaining privacy is often more complicated for these groups. You'll need to establish boundaries about who needs to be involved.
+
+Always work to limit information sharing outside of the immediate response group, unless you have explict permission from everyone: victims, reporters, and accused.
 
 ## How does this differ from your technical leadership?
 
@@ -47,7 +49,7 @@ We can show good leadership when we're accused of harm by stepping back and allo
 
 For the rest of the response team, it's very important that you [stick to your process](resources/incident_response.html).
 
-## Is the group or community responsible to other organization?
+## Is the group or community responsible to other organizations?
 
 Some common situations are open source projects with fiscal sponsors, chapters of national and international organizations, and rotating conference leadership for events that travel to different cities. Find out what their expectations and guidelines are. They may have a minimum code of conduct requirement, expect you to forward all reports to them, or some other arrangement.
 
