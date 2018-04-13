@@ -17,7 +17,7 @@ They always happen at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safety
 
 In Portland, OR, USA
 
-* April 14th: Ally Workshop at Design Week Portland. [Registration Open](https://www.eventbrite.com/e/ally-skills-workshop-tickets-44856306420)
+## April 14th: Ally Workshop at Design Week Portland. [Registration Open](https://www.eventbrite.com/e/ally-skills-workshop-tickets-44856306420)
 
 * Quarter 2 Training: June 26 at [Open Source Bridge](http://opensourcebridge.org/)
 
