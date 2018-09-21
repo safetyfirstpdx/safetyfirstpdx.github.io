@@ -23,7 +23,7 @@ What values or goals does your organization have? How do those values relate to 
 
 ### 2. Who are you working to include?
 
-This is often given as a list of protected groups or categories: gender, race, religion, disability, and so on. Including this is a heads-up to people who have been excluded elsewhere, and your awareness of the details is one of the ways you demonstrate accountability. Skip flexible attributes like political beliefs or professionalism. Those are better handled as appropriate and inappropriate behaviors.
+This is often given as a list of protected groups or categories: gender, race, religion, disability, and so on. In addition to groups that are covered under your local anti-discrimination laws, it may be helpful to consider characteristics like level of education or experience, nationality, immigration status, and socio-economic status. Including these elements is a welcoming signal to people who have been excluded elsewhere, and your awareness of the details is one of the ways you demonstrate accountability. See below for what's best to leave out or handle a different way.
 
 ### 3. A list of specific behaviors considered inappropriate
 
@@ -53,6 +53,14 @@ This needs to be specific and appropriate for all of the contexts where your pol
 - Additional relevant resources for assisting participants, such as urgent care medical clinics, crisis lines, resource centers
 
 If there's anything else you expect people to do, more details you can provide about your process, or outside resources they can access, include them as well.
+
+### What not to include
+
+Some items are better to leave out of your code of conduct's protected groups. Making political parties or beliefs such a category puts people who want to harm others on the same ground as those who are abused. For example, in the US, registering as a Democrat has a very different impact from joining the neo-Nazi Traditionalist Worker Party. In general, beliefs and behaviors should be under the *unacceptable* or *expected behaviors* sections. This includes which text editor you use, lifestyle choices, and other activities.
+
+Religion has a special status, both legally and socially. It stays in the main category of protection because of specific histories of harm and discrimination, and because it's something you "are" as much as something you do. On the other hand, proselytizing without an invitation is a *behavior*, regardless of the beliefs that contribute to it.
+
+Also refrain from statements that are ambiguous or rely on specific cultural knowledge. "Be excellent to each other" may have all sorts of different understandings. Be careful about anything that may rely on a participant understanding the intent of the organizers — if it's important, make it explicit.
 
 ## Example codes of conduct to use
 
