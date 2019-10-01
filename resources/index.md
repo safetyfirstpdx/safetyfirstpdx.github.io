@@ -5,10 +5,10 @@ title: Resource Guide
 
 ## Getting Started
 
-* [Understanding the problem](problem.html)
-* [What's a code of conduct? Why do you need one?](code_of_conduct.html)
-* [Reporting guidelines for incidents](reporting.html)
-* [Building your incident response plan](incident_response.html)
+* [Understanding the problem](resources/problem.html)
+* [What's a code of conduct? Why do you need one?](code_of_conduct)
+* [Reporting guidelines for incidents](reporting)
+* [Building your incident response plan](incident_response)
 
 ## Next Steps
 
