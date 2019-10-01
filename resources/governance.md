@@ -3,7 +3,7 @@ layout: topic
 title: Governance and leadership
 ---
 
-It may seem a little obvious, but it's difficult to have and use a [code of conduct](resources/code_of_conduct.html) if you have no organization at all. Informal and ad hoc groups need to go through a different process than ones with a formal structure. If you have a formal hierarchy, that will help you answer these next questions. If not, the group will need to spend more effort to decide who's responsible, how and why.
+It may seem a little obvious, but it's difficult to have and use a [code of conduct](resources/code_of_conduct) if you have no organization at all. Informal and ad hoc groups need to go through a different process than ones with a formal structure. If you have a formal hierarchy, that will help you answer these next questions. If not, the group will need to spend more effort to decide who's responsible, how and why.
 
 When we create and enforce a code of conduct, we're not the police, a court system, trained detectives, or any higher legal authority. We're acting with the consent and participation of a community we belong to. Thoughtful consideration of this issue will help you maintain the code of conduct and get the most out of it.
 
@@ -35,11 +35,11 @@ Technical communities are often led by people with technical expertise, and with
 
 In a small community, the short-term solution is for the leaders to start implementing policies and learning the necessary skills, while also mentoring participants who can eventually step up to join them in leading this aspect of the community. Larger communities may already have people who could step into the role, and in that case it makes sense to specialize.
 
-If you have a technical leadership committee, don't automatically make them the new code of conduct response team. Decide as a group [which of you are best equipped](resources/incident_response.html) to take on that work.
+If you have a technical leadership committee, don't automatically make them the new code of conduct response team. Decide as a group [which of you are best equipped](resources/incident_response) to take on that work.
 
 ## Who can report an issue?
 
-We document the [scope of the code of conduct](resources/code_of_conduct.html) to define who the participants are. Our efforts need to fully reflect that, regardless of someone's social standing or level of organizational knowledge. Make sure [your reporting system](resources/reporting.html) is accessible to anyone who might need to use it and that you'll be able to respond to newcomers as well as more established members. If participation in your group is limited to a formal membership, decide what you'll do if someone outside the group reports a problem with one of your members.
+We document the [scope of the code of conduct](resources/code_of_conduct) to define who the participants are. Our efforts need to fully reflect that, regardless of someone's social standing or level of organizational knowledge. Make sure [your reporting system](resources/reporting) is accessible to anyone who might need to use it and that you'll be able to respond to newcomers as well as more established members. If participation in your group is limited to a formal membership, decide what you'll do if someone outside the group reports a problem with one of your members.
 
 ## What happens when leaders are the ones causing harm?
 
@@ -47,7 +47,7 @@ Unfortunately, both accidental and deliberate harm can be caused by our leaders,
 
 We can show good leadership when we're accused of harm by stepping back and allowing the group to work. Don't use your influence to try to force a particular outcome.
 
-For the rest of the response team, it's very important that you [stick to your process](resources/incident_response.html).
+For the rest of the response team, it's very important that you [stick to your process](resources/incident_response).
 
 ## Is the group or community responsible to other organizations?
 
