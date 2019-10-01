@@ -17,6 +17,6 @@ Email us sfp at stumptownsyndicate dot org to find out how to schedule a worksho
 
 ### Contribute
 
-Follow our [github repository for this site on GitHub](https://github.com/safetyfirstpdx/safetyfirstpdx.github.io) and help us to make it better. Our materials are open source.
+Follow our [repository for this site on GitHub](https://github.com/safetyfirstpdx/safetyfirstpdx.github.io) and help us to make it better. Our materials are open source.
 
 
