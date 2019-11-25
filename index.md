@@ -9,8 +9,4 @@ In order to eliminate harassment and abuse, we educate ourselves and members of 
 
 Safety First PDX is a program of Stumptown Syndicate. Our events and communications are subject to the Stumptown Syndicate Code of Conduct and incidents may be reported by following the Stumptown Syndicate Reporting Guidelines.
 
-## Next Event
-
-We have monthly office hours every 4th Thursday at noon PST. Join us at [http://meet.jit.si/safetyfirst](http://meet.jit.si/safetyfirst) or on Twitter using #safetyfirstofficehours.
-
 {% include donate.html %}
