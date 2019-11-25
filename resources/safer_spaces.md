@@ -5,7 +5,7 @@ title: Creating Safer Spaces
 
 ## Your policies
 
-Having a [code of conduct](/resources/code_of_conduct.html) is just one part of a system of inclusive practices. Many organizations also choose to have diversity statements, participation guidelines, and other ways of communicating their values and expectations. Here's some examples:
+Having a [code of conduct]({% link resources/code_of_conduct.md %}) is just one part of a system of inclusive practices. Many organizations also choose to have diversity statements, participation guidelines, and other ways of communicating their values and expectations. Here's some examples:
 
 - [Allied Media Conference Participation Agreements](https://alliedmedia.org/amc/agreements)
 - [Dreamwidth Diversity Statement](https://www.dreamwidth.org/legal/diversity)
@@ -15,7 +15,7 @@ Having a [code of conduct](/resources/code_of_conduct.html) is just one part of 
 
 Implementing your code of conduct is part of a bigger community conversation about how you work together. People bring all sorts of different backgrounds and experience levels to our groups. Learn to understand the difference between acting in good faith and deliberate harm or marginalization. The example you set as a community leader is crucial. Consider seeking out training in [anti-oppressive faciliation](http://aorta.coop/portfolio_page/anti-oppressive-facilitation/).
 
-Make sure your policies and processes are [explicit and well-documented](accountability.html).
+Make sure your policies and processes are [explicit and well-documented]({% link resources/accountability.md %}).
 
 ## Ideas for event organizers
 

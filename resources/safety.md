@@ -29,4 +29,4 @@ Rather than trying to create a complete, static sort of safety, we work actively
 
 ## Read more
 
-- [Creating safer spaces](safer_spaces.html)
+- [Creating safer spaces]({% link resources/safer_spaces.md %})

@@ -64,10 +64,10 @@ Also refrain from statements that are ambiguous or rely on specific cultural kno
 
 ## Example codes of conduct to use
 
+- [WeAllJS Code of Conduct](https://wealljs.org/code-of-conduct)
 - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 - [Contributor Covenant](http://contributor-covenant.org/)
 - [Geek Feminism Conference Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-- [Lambda Ladies Code of Conduct](http://www.lambdaladies.com/code-of-conduct/)
 
 ## How do you share it your community?
 
@@ -89,5 +89,5 @@ Make time at the start of your meetings and events to talk about the code of con
 
 ## Next steps
 
-- [Get ready to take reports](/resources/reporting.html)
-- [Make an incident response plan](/resources/incident_response.html)
+- [Get ready to take reports]({% link resources/reporting.md %})
+- [Make an incident response plan]({% link resources/incident_response.md %})

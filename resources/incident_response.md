@@ -16,9 +16,9 @@ A community may have:
 
 Your **primary responders** should be people who can take responsibility for your community's response to an incident. You need to prevent conflicts of interest: no couples or family members working together. Don't take on this responsibility alone. Two or more people are needed to hold each other accountable, and an ideal group size is usually three to five responders. People will need to rotate in and out of the response group over time, and take turns being on call or in the lead position.
 
-Describe what each set of participants and organizers is expected to do. There will be a [reporting](resources/reporting.html) chain — maybe just two steps from "participant" to "organizer/responder" — and you may also be accountable to a parent or partner organization.
+Describe what each set of participants and organizers is expected to do. There will be a [reporting]({% link resources/reporting.md %}) chain — maybe just two steps from "participant" to "organizer/responder" — and you may also be accountable to a parent or partner organization.
 
-This is the time to think about how your ability to receive and respond to information about code of conduct violations fits into your [governance](resources/governance.html) structure.
+This is the time to think about how your ability to receive and respond to information about code of conduct violations fits into your [governance]({% link resources/governance.md %}) structure.
 
 ### Examples of possible response teams
 

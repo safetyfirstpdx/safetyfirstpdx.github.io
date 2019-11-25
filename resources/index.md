@@ -5,21 +5,21 @@ title: Resource Guide
 
 ## Getting Started
 
-* [Understanding the problem](resources/problem.html)
-* [What's a code of conduct? Why do you need one?](code_of_conduct)
-* [Reporting guidelines for incidents](reporting)
-* [Building your incident response plan](incident_response)
+* [Understanding the problem]({% link resources/problem.md %})
+* [What's a code of conduct? Why do you need one?]({% link resources/code_of_conduct.md %})
+* [Reporting guidelines for incidents]({% link resources/reporting.md %})
+* [Building your incident response plan]({% link resources/incident_response.md %})
 
 ## Next Steps
 
-* [Community accountability](accountability.html)
-* [Conflict resolution](conflict_resolution.html)
-* [Governance and leadership](governance.html)
+* [Community accountability]({% link resources/accountability.md %})
+* [Conflict resolution]({% link resources/conflict_resolution.md %})
+* [Governance and leadership]({% link resources/governance.md %})
 
 ## Learn more
 
-* [Safety is a process](safety.html)
-* [Ways to create safer spaces](safer_spaces.html)
+* [Safety is a process]({% link resources/safety.md %})
+* [Ways to create safer spaces]({% link resources/safer_spaces.md %})
 
 ## Find Help Locally — Portland, Oregon
 

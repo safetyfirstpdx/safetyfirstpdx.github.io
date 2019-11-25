@@ -37,7 +37,7 @@ Factors that may affect your handling of these records:
 
 ## Follow up and response
 
-Make sure to let people know how soon they'll have a response from you, and what the time frame is for your actions. Posting an outline of your reporting process with your code of conduct is helpful. Learn how to [create a incident response plan](/resources/incident_response.html) to determine your next actions.
+Make sure to let people know how soon they'll have a response from you, and what the time frame is for your actions. Posting an outline of your reporting process with your code of conduct is helpful. Learn how to [create a incident response plan]({% link resources/incident_response.md %}) to determine your next actions.
 
 ## Example situations
 
