@@ -2,41 +2,36 @@
 # The top nav only uses the top level of nav items.
 # The bottom nav also uses the secondary_nav items.
 #
-kramdown:
-  auto_ids: true 
-# Current assumptions:
-# Top level nav items are all internal links at the top level.
-# Secondary nav items assume they are nested under the folder specified by their
-# parent nav item.
-# Secondary nav items can be external links. You must set the "external: true"
-# value on them.
+collections:
+  resources:
+    output: true
 nav_items:
-  - url: 'about'
+  - url: '/about'
     label: 'About'
-  - url: 'upcoming_events'
+  - url: '/upcoming_events.html'
     label: 'Events'
     secondary_nav:
-    - url: 'upcoming_events#online-office-hours'
+    - url: '/upcoming_events.html#online-office-hours'
       label: 'Office Hours'
-    - url: 'upcoming_events#in-person-training'
+    - url: '/upcoming_events.html#in-person-training'
       label: 'In Person'
-  - url: 'training'
+  - url: '/training'
     label: 'Training Program'
     secondary_nav:
-    - url: 'training/code_of_conduct#workshops'
+    - url: '/training/code_of_conduct/index.html#workshops'
       label: 'Workshops'
-    - url: 'training/code_of_conduct#training-materials'
+    - url: 'training/code_of_conduct/index.html#training-materials'
       label: 'Materials'
-  - url: 'resources'
+  - url: '/resources'
     label: 'Resources'
     secondary_nav:
-      - url: 'resources/code_of_conduct'
+      - url: '/resources/code_of_conduct.html'
         label: 'Codes of Conduct'
-      - url: 'resources/reporting'
+      - url: '/resources/reporting.html'
         label: 'Reporting Guidelines'
-      - url: 'resources/incident_response'
+      - url: '/resources/incident_response.html'
         label: 'Incident Response Plans'
-      - url: 'resources/accountability'
+      - url: '/resources/accountability.html'
         label: 'Community Accountability'
-  - url: 'get_involved'
+  - url: '/get_involved'
     label: 'Get Involved'
